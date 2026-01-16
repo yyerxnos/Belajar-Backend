@@ -6,10 +6,10 @@
 
 //console.log('Setelah diubah:', username); // output: Setelah diubah :Raditya
 
-const username = 'radit';
+//const username = 'radit';
 
-console.log('sebelum diubah:', username); // output: sebelum diubah: radit
+//console.log('sebelum diubah:', username); // output: sebelum diubah: radit
 
-username = 'raditya'; // TypeError: Assignment to constant variable.
+//username = 'raditya'; // TypeError: Assignment to constant variable.
 
-console.log('setelah diubah:', username); // tidak akan di eksekusi
+//console.log('setelah diubah:', username); // tidak akan di eksekusi

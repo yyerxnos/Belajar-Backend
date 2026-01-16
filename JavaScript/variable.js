@@ -1,5 +1,7 @@
-const id = 123;
-let username = 'Radit';
+let username = 'radit';
 
-console.log(id); //output: 123
-console.log(username); // output: Radit
+console.log('sebelum diubah:', username); // output:Sebelum diubah: Radit
+
+username = 'raditya';
+
+console.log('Setelah diubah:', username); // output: Setelah diubah :Raditya
